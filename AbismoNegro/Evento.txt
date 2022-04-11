@@ -1,0 +1,14 @@
+Tecnico vs  Rudo,Horario,Ubicacion,Modo,Sat Apr 09 13:23:53 CDT 2022
+Fénix vs  Texano Jr.,7:00 pm,República de Perú 77 Centro Histórico de la Cdad. de México Centro Cuauhtémoc 06000 Ciudad de México CDMX,Rey de reyes,Mon Apr 11 13:23:53 CDT 2022
+Abismo negro vs  Cibernético,7:30 pm, Dr. Lavista 189 Doctores Cuauhtémoc 06720 Ciudad de México CDMX,Triplemania,Sat Apr 09 13:24:59 CDT 2022
+Abismo negro vs  El Mesías,8:00 pm,República de Perú 77 Centro Histórico de la Cdad. de México Centro Cuauhtémoc 06000 Ciudad de México CDMX,Triplemania,Mon Jun 13 13:25:45 CDT 2022
+ Monster Clown vs  Jack Evans,8:00 pm,República de Perú 77 Centro Histórico de la Cdad. de México Centro Cuauhtémoc 06000 Ciudad de México CDMX,Heroes inmortales,Wed Jun 22 13:25:45 CDT 2022
+Pentagón Jr. vs  Chessman,8:30 pm,C. Emilio Cárdenas 28 Tlalnepantla Centro 54000 Ciudad de México Méx.,Heroes inmortales,Tue Sep 13 13:25:45 CDT 2022
+Super Fly vs  Halloween,8:30 pm,C. Emilio Cárdenas 28 Tlalnepantla Centro 54000 Ciudad de México Méx.,Heroes inmortales,Tue Sep 13 13:25:45 CDT 2022
+Último Gladiador vs  Dark Cuervo,8:30 pm,C. Emilio Cárdenas 28 Tlalnepantla Centro 54000 Ciudad de México Méx.,Rey de reyes,Wed Oct 26 13:25:45 CDT 2022
+Super Fly vs  Drago,8:30 pm,C.Jdn 19 Naucalpan Centro 53000 Naucalpan de Juárez Méx.,Heroes inmortales,Fri Sep 23 13:25:45 CDT 2022
+Crazy Boy vs  Drago,8:30 pm,C.Jdn 19 Naucalpan Centro 53000 Naucalpan de Juárez Méx.,Heroes inmortales,Fri Sep 23 13:25:45 CDT 2022
+Joe Líder vs  Drago,8:30 pm,C.Jdn 19 Naucalpan Centro 53000 Naucalpan de Juárez Méx.,Heroes inmortales,Fri Sep 23 13:25:45 CDT 2022
+Faby apache vs  Yuriko,8:30 pm,C.Jdn 19 Naucalpan Centro 53000 Naucalpan de Juárez Méx.,Triplemania,Fri Sep 23 13:25:45 CDT 2022
+Myzteziz vs  volador jr,8:30 pm,C.Jdn 19 Naucalpan Centro 53000 Naucalpan de Juárez Méx.,Westlemania,Fri Sep 23 13:25:45 CDT 2022
+mistico vs  Hijo del Perro Aguayo,7:00 pm,República de Perú 77 Centro Histórico de la Cdad. de México Centro Cuauhtémoc 06000 Ciudad de México CDMX,Money in the bank,Mon Sep 26 13:31:14 CDT 2022

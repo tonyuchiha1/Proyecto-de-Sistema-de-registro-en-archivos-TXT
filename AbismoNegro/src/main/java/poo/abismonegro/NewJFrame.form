@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JComboBox" name="jComboBox6">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="imagen1" min="-2" pref="298" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Scroll" min="-2" pref="598" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="Imagen" min="-2" pref="298" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="Luchadores" min="-2" pref="194" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="jLabel2" min="-2" pref="105" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Contrincante" min="-2" pref="188" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="jComboBox3" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                                          <Component id="jComboBox5" alignment="0" min="-2" pref="189" max="-2" attributes="0"/>
+                                          <Component id="jComboBox4" min="-2" pref="189" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jCalendar2" min="-2" pref="390" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="Guardar" min="-2" pref="135" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Cerrar" min="-2" pref="129" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                              <Component id="Imagen2" min="-2" pref="276" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="Luchadores" alignment="1" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="jLabel2" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="Contrincante" min="-2" pref="41" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jComboBox3" min="-2" pref="42" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jComboBox4" min="-2" pref="38" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jComboBox5" min="-2" pref="42" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jCalendar2" min="-2" pref="163" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="Cerrar" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Guardar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                      <Component id="Scroll" min="-2" pref="212" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="88" max="-2" attributes="0"/>
+                      <Component id="Imagen2" min="-2" pref="342" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="Imagen" min="-2" pref="414" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="imagen1" min="-2" pref="294" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="6" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JComboBox" name="Luchadores">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="35">
+            <StringItem index="0" value="Tecnico"/>
+            <StringItem index="1" value="Abismo negro"/>
+            <StringItem index="2" value="F&#xe9;nix"/>
+            <StringItem index="3" value=" La Parka"/>
+            <StringItem index="4" value=" Monster Clown"/>
+            <StringItem index="5" value=" Murder Clown"/>
+            <StringItem index="6" value=" Psycho Clown"/>
+            <StringItem index="7" value="Pentag&#xf3;n Jr."/>
+            <StringItem index="8" value="Vampiro"/>
+            <StringItem index="9" value="Crazy Boy"/>
+            <StringItem index="10" value="Joe L&#xed;der"/>
+            <StringItem index="11" value="M&#xe1;scara A&#xf1;o 2000 Jr"/>
+            <StringItem index="12" value="Super Fly"/>
+            <StringItem index="13" value="&#xda;ltimo Gladiador"/>
+            <StringItem index="14" value="Soul Rocker"/>
+            <StringItem index="15" value="Devil Rocker,"/>
+            <StringItem index="16" value="Machine Rocker"/>
+            <StringItem index="17" value="Gronda"/>
+            <StringItem index="18" value="Argenis"/>
+            <StringItem index="19" value="Argos"/>
+            <StringItem index="20" value="Alebrije con Cuije"/>
+            <StringItem index="21" value="El Brazo"/>
+            <StringItem index="22" value="Pasi&#xf3;n Cristal"/>
+            <StringItem index="23" value="Polvo de Estrellas"/>
+            <StringItem index="24" value="Pimpinela"/>
+            <StringItem index="25" value="Faby apache"/>
+            <StringItem index="26" value="laredo kid"/>
+            <StringItem index="27" value="extreme tiger"/>
+            <StringItem index="28" value="Myzteziz"/>
+            <StringItem index="29" value="mistico"/>
+            <StringItem index="30" value="Titan"/>
+            <StringItem index="31" value=" Nygma "/>
+            <StringItem index="32" value="Atlantis"/>
+            <StringItem index="33" value="angel de oro"/>
+            <StringItem index="34" value="El valiente"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LuchadoresActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Contrincante">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="32">
+            <StringItem index="0" value="Rudo"/>
+            <StringItem index="1" value="Texano Jr."/>
+            <StringItem index="2" value="Cibern&#xe9;tico"/>
+            <StringItem index="3" value="El Mes&#xed;as"/>
+            <StringItem index="4" value="Chessman"/>
+            <StringItem index="5" value="Silver King"/>
+            <StringItem index="6" value="Jack Evans"/>
+            <StringItem index="7" value="Hijo del Perro Aguayo"/>
+            <StringItem index="8" value="Blue Demon Jr"/>
+            <StringItem index="9" value="Electroshock"/>
+            <StringItem index="10" value="Alan Stone"/>
+            <StringItem index="11" value="Toscano"/>
+            <StringItem index="12" value="Psicosis"/>
+            <StringItem index="13" value="Daga"/>
+            <StringItem index="14" value="Halloween"/>
+            <StringItem index="15" value="Drago"/>
+            <StringItem index="16" value="Dark Ozz"/>
+            <StringItem index="17" value="Dark Cuervo"/>
+            <StringItem index="18" value="Dark Scoria"/>
+            <StringItem index="19" value="Dark Esp&#xed;ritu"/>
+            <StringItem index="20" value="Hiedra"/>
+            <StringItem index="21" value="Lady maravilla"/>
+            <StringItem index="22" value="Axel"/>
+            <StringItem index="23" value="Atomic Boy"/>
+            <StringItem index="24" value="Aerostar"/>
+            <StringItem index="25" value="Lady flamer"/>
+            <StringItem index="26" value="Hechizero"/>
+            <StringItem index="27" value="Averno"/>
+            <StringItem index="28" value="Ultimo guerrero"/>
+            <StringItem index="29" value="volador jr"/>
+            <StringItem index="30" value="negro casas "/>
+            <StringItem index="31" value="Yuriko"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ContrincanteActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="12">
+            <StringItem index="0" value="Horario"/>
+            <StringItem index="1" value="7:00 pm"/>
+            <StringItem index="2" value="7:30 pm"/>
+            <StringItem index="3" value="8:00 pm"/>
+            <StringItem index="4" value="8:30 pm"/>
+            <StringItem index="5" value="9:00 pm"/>
+            <StringItem index="6" value="9:30 pm"/>
+            <StringItem index="7" value="10:00 pm"/>
+            <StringItem index="8" value="10:30 pm"/>
+            <StringItem index="9" value="11:00 pm"/>
+            <StringItem index="10" value="11:30 pm"/>
+            <StringItem index="11" value="12:00 pm"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox3ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="15">
+            <StringItem index="0" value="Ubicacion"/>
+            <StringItem index="1" value="Rep&#xfa;blica de Per&#xfa; 77 Centro Hist&#xf3;rico de la Cdad. de M&#xe9;xico Centro Cuauht&#xe9;moc 06000 Ciudad de M&#xe9;xico CDMX"/>
+            <StringItem index="2" value=" Dr. Lavista 189 Doctores Cuauht&#xe9;moc 06720 Ciudad de M&#xe9;xico CDMX"/>
+            <StringItem index="3" value="Av. Carmelo P&#xe9;rez 368 Villada 57710 Nezahualc&#xf3;yotl M&#xe9;x."/>
+            <StringItem index="4" value="Avenida Jorge Jim&#xe9;nez Cant&#xfa; esquina con V&#xed;a Sat&#xe9;lite Centro Urbano Cuautitl&#xe1;n Izcalli M&#xe9;x."/>
+            <StringItem index="5" value="C. Emilio C&#xe1;rdenas 28 Tlalnepantla Centro 54000 Ciudad de M&#xe9;xico M&#xe9;x."/>
+            <StringItem index="6" value="C.Jdn 19 Naucalpan Centro 53000 Naucalpan de Ju&#xe1;rez M&#xe9;x."/>
+            <StringItem index="7" value="Av. San Francisco 5 San Francisco Cuautliquixca 55749 Ojo de Agua M&#xe9;x"/>
+            <StringItem index="8" value="A San Luis Beltr&#xe1;n 110A Jardin 68020 Oaxaca de Ju&#xe1;rez Oax."/>
+            <StringItem index="9" value="Arena Pepe Cisneros. Calle Heroes Mexicanos Num. 412 Col Fernando Gomez Sandoval 68150 Santa Luc&#xed;a del Camino Oax."/>
+            <StringItem index="10" value=" Av. 13 Ote. 402 El Carmen 72530 Puebla Pue"/>
+            <StringItem index="11" value="11 Sur No 13524 San Ram&#xf3;n 72490 Puebla Pue."/>
+            <StringItem index="12" value="Yaxchunal 14 59 77515 Canc&#xfa;n Q.R."/>
+            <StringItem index="13" value=" Pipila 100 Santa Julia Sta Julia 42080 Pachuca de Soto Hgo."/>
+            <StringItem index="14" value="Calle Federico Medrano C. Analco 67 Centro 44100 Guadalajara Jal."/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox4ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox5">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="7">
+            <StringItem index="0" value="Modo"/>
+            <StringItem index="1" value="Triplemania"/>
+            <StringItem index="2" value="Rey de reyes"/>
+            <StringItem index="3" value="Westlemania"/>
+            <StringItem index="4" value="Heroes inmortales"/>
+            <StringItem index="5" value="Extreme rules"/>
+            <StringItem index="6" value="Money in the bank"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox5ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="Guardar">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Guardar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GuardarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Cerrar">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Cerrar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CerrarActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_SerializeTo" type="java.lang.String" value="Cerrar"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Engravers MT" size="48" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="VS"/>
+      </Properties>
+    </Component>
+    <Component class="com.toedter.calendar.JCalendar" name="jCalendar2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, new java.awt.Color(204, 0, 0), null, null)" type="code"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Imagen">
+    </Component>
+    <Component class="javax.swing.JLabel" name="imagen1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Imagen2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Engravers MT" size="48" style="3"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Selecciona luchador"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleParent" type="javax.accessibility.Accessible" editor="org.netbeans.modules.form.ComponentChooserEditor">
+          <ComponentRef name="Imagen"/>
+        </Property>
+      </AccessibilityProperties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="Scroll">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tabla">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="modelo" type="code"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
